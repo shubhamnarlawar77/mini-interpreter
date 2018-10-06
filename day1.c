@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
-
+//new changes
 #define NONE_OF_THESE 0
 #define DIGIT 1
 #define PLUS 3
